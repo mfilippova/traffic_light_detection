@@ -24,4 +24,4 @@ For determining relevance of the traffic light I use heuristics of how the traff
 
 I achieve average FPS equal to 7.5, which means the model can process each 4th frame for a camera shooting 30 frames per second.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/X0iA0Mr_bD8)
+![Something went wrong :(](video/prediction_2_25s.gif)
